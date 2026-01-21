@@ -2,7 +2,7 @@
 
 ### Brain Tumor MRI Classification System
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://emodetext-devanshimalhotra.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue?logo=streamlit)](https://cerebra-scan-ai.streamlit.app/)
 ![Status](https://img.shields.io/badge/Status-Live-success)
 
 **CerebraScan AI** is a deep learning-based medical imaging application designed to classify brain MRI scans into four categories: **Glioma, Meningioma, Pituitary Tumor, and No Tumor**. 
